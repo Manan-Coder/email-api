@@ -3,10 +3,10 @@ This is an simple email api which I built to verify user's for my platform Cohor
 
 Let's start with the steps to use it - 
 Firstly, Clone the repo
-'''git clone https://github.com/Manan-Coder/email-api'''
+```git clone https://github.com/Manan-Coder/email-api```
 
 After that install Flask by running - 
-'''pip install flask'''
+```pip install flask```
 
 After that enter your email id(from which you want to send mails) and a specific app password for it(I will not have access to your app password, this is a poor 20 line api,you'll have to enter it as python lib smtplib uses it :) in the code where marked, then you are good to go. Just run the program.
 
